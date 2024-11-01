@@ -13,7 +13,7 @@
   * [🎉 Table of Contents](#table-of-contents)
   * [✨ Quick Task List](#-quick-task-list)
   * [🧗 Introduction](#-introduction)
-  * [😁 Note: Student Name](#-note-student-name)
+  * [😁 TODO: Student Name](#-note-student-name)
   * [🚧 Honor Code](#-honor-code)
   * [🌟 Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this programming skill check."](#-re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-programming-skill-check)
   * [🌐 Programming Skill Check Overview](#-programming-skill-check-overview)
@@ -43,9 +43,9 @@ please see the course instructor during the assessment time period. You must
 read and ensure that you understand all of the instructions in this file before
 starting the assessment.
 
-## 😁 Note: Student Name
+## 😁 TODO: Add Your Name Here
 
-Note: You must delete `Student Name` and add your name to the subsection header
+TODO: You must delete `Add Your Name Here` and add your name to the subsection header
 
 ## 🚧 Honor Code
 
@@ -70,15 +70,15 @@ this assessment.
 
 ## 🌟 Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this programming skill check."
 
-Note: You must retype the sentence here in order to digitally sign your pledge.
+TODO: You must retype the sentence here in order to digitally sign your pledge.
 
-"I adhered to the Allegheny College Honor Code while completing this programming skill check."
+
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the assessment.
 
-Note: Please list here the sources that you consulted while completing the
+TODO: Please list here the sources that you consulted while completing the
 programming skill check!
 
 ## 🌐 Programming Skill Check Overview
