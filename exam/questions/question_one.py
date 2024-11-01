@@ -8,6 +8,10 @@
 # You must reorganize and/or add the imports so that they adhere
 # to the industry best practices for Python source code.
 
+# TODO: Do not modify the implementation or CoverageItem class
+
+# TODO: Do not modify the implementation or Mutant class
+
 import random
 from typing import List
 
@@ -122,7 +126,7 @@ def compute_coverage_difference(
 
 
 def generate_fuzzer_values(
-    max_length = 100, char_start: int = 32, char_range: int = 32
+    max_length=100, char_start: int = 32, char_range: int = 32
 ) -> str:
     """Make string of up to max_length characters in the range [char_start, char_start + char_range)."""
     string_length = random.randrange(max_length, max_length + 1)
